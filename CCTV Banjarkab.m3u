@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Simpang4 Pendidikan
+https://stream2.banjarkab.go.id:8080/cctv/hls/jalansimpang4pendidikan.m3u8
+#EXTINF:-1,Skp Depan
+https://stream2.banjarkab.go.id:8080/cctv/hls/masjidpancasila.m3u8
+#EXTINF:-1,Polsek Mtp kota
+https://stream2.banjarkab.go.id:8080/cctv/hls/polsekmartapurakota.m3u8
+#EXTINF:-1,Pasar Batuah
+https://stream2.banjarkab.go.id:8080/cctv/hls/simpangempatpasarbatuah.m3u8
+#EXTINF:-1,S4 skp
+https://stream2.banjarkab.go.id:8080/cctv/hls/simpangempatsekumpul.m3u8
+#EXTINF:-1,CBS
+https://stream2.banjarkab.go.id:8080/cctv/hls/tamancbs.m3u8
